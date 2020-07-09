@@ -41,6 +41,20 @@
 
 - testar
     adicionar txt build
+    git add .
+    git commit -m 'Adicionando comentario cloudbuild'
+    git push origin master
+
+- editar GCP/cloudbuild
+    alterar acionador para evento solicitacao pull
+
+- criar o branch de trabalho
+    git checkout -b teste
+    git push origin teste
+
+- criar pull request
+    no site do github
+
 
 
 
