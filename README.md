@@ -25,3 +25,13 @@
     git commit -m "first commit"
     git push -u origin master
 
+- acessar sonarqube e importar o projeto
+
+- criar arquivo GCP/cloudbuild
+    conectar no repositorio
+    criar acionador
+
+
+
+
+
