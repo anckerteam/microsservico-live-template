@@ -31,6 +31,16 @@
     conectar no repositorio
     criar acionador
 
+- github
+    settings/branches
+    addrule/master
+    Require status checks to pass before merging
+    Require branches to be up to date before merging
+    Trigger: 0cd95749-107a-4690-9db5-6e4b8b37ba94
+    Include administrators
+
+- testar
+    adicionar txt build
 
 
 
