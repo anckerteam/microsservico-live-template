@@ -55,7 +55,15 @@
 - criar pull request
     no site do github
 
+- (github) adicionar pessoas a organizacao
+    edit rule do branch
+    Require pull request reviews before merging
 
+- criar pull request
+    no site do github
+    git add .
+    git commit -m 'Adicionando comentario de Migracao'
+    git push origin teste
 
 
 
