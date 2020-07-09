@@ -64,6 +64,7 @@
     git add .
     git commit -m 'Adicionando comentario de Migracao'
     git push origin teste
+    tem que ser no site
 
 
 
